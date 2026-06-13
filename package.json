@@ -1,0 +1,12 @@
+{
+  "name": "render-pinger",
+  "version": "1.0.0",
+  "description": "Keeps Render free-tier services alive by pinging them on an interval",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
