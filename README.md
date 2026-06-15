@@ -38,3 +38,7 @@ To add or remove a service, update `PING_URLS` in your Render environment variab
 - All pings run concurrently.
 - The dashboard auto-refreshes every 30 seconds.
 - Times are shown in US Central time.
+
+
+## License
+This project is licensed under the MIT License - you are free to use, modify, and distribute it.
